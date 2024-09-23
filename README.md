@@ -1,8 +1,8 @@
-# Matt-s-Bandcamp-Shortcode-Thing
+# Matt's Bandcamp Shortcode Thing
 
 You want to use the Bandcamp shortcode but it's for WordPress.com and you are running WordPress.org. Oh no, it doesn't work. What now? This plugin (should subject to testing) fixes all that.
 
-TL;DR: The Bandcamp shortcode will work now.
+**TL;DR:** The Bandcamp shortcode will work now.
 
 ## How to use
 
