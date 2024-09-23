@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Matt's Bandcamp shortcode thing ===
 Contributors: lordmatt
 Tags: Bandcamp, shortcode
 Requires at least: 4.7
