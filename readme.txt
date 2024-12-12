@@ -2,8 +2,8 @@
 Contributors: lordmatt
 Tags: Bandcamp, shortcode
 Requires at least: 4.7
-Tested up to: 6.6.2
-Stable tag: 1.00.01
+Tested up to: 6.7
+Stable tag: 1.00.02
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
