@@ -16,6 +16,8 @@ You want to embed a Bandcamp song but, "oh no" the shortcode only works on WordP
 
 I was annoyed that I could not use the Bandcamp shortcode so I wrote a very simple plugin to let me do that. It does not do anything else.
 
+It should go without saying but I'll say it anyway, this plugin uses bandcamp.com as a third-party service. It would be pointless if it did not as this plugin is just to make bandcamp shortcodes work.
+
 == Frequently Asked Questions ==
 
 = How does it work? =
