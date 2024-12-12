@@ -1,4 +1,4 @@
-=== Matt's Bandcamp shortcode thing ===
+=== Matt's Bandcamp Shortcode Thing ===
 Contributors: lordmatt
 Tags: Bandcamp, shortcode
 Requires at least: 4.7
