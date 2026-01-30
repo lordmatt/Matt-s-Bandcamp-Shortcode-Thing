@@ -14,9 +14,15 @@ Enables use of the Bandcamp WordPress shortcode.
 
 You want to embed a Bandcamp song but, "oh no" the shortcode only works on WordPress.com. Not to worry. This plugin lets you use the shortcode on your blog too.
 
-I was annoyed that I could not use the Bandcamp shortcode so I wrote a very simple plugin to let me do that. It does not do anything else.
+I was annoyed that I could not use the Bandcamp shortcode, so I wrote a very simple plugin to let me do that. It does not do anything else.
 
-It should go without saying but I'll say it anyway, this plugin uses bandcamp.com as a third-party service. It would be pointless if it did not as this plugin is just to make bandcamp shortcodes work.
+It should go without saying, but I'll say it anyway, this plugin uses bandcamp.com as a third-party service. It would be pointless if it did not, as this plugin is just to make Bandcamp shortcodes work.
+
+== External services ==
+
+This plugin adds an iframe loading content from bandcamp.com/EmbeddedPlayer, it is needed to embed the bandcamp.com media player.
+
+No data is sent by the plugin, but your browser may send cookies.
 
 == Frequently Asked Questions ==
 
