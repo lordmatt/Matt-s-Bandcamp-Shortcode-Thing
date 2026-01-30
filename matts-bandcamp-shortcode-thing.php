@@ -2,8 +2,8 @@
 /*
  * Plugin Name:       Matt's Bandcamp Shortcode Thing
  * Plugin URI:        https://iamthedj.lordmatt.co.uk/about/matts-bandcamp-shortcode-thing/
- * Description:       The bandcamp shortcode did not work on selfhosted WordPress(.org) so I fixed that.
- * Version:           1.00.02
+ * Description:       The Bandcamp shortcode did not work on self-hosted WordPress(.org), so I fixed that.
+ * Version:           1.00.03
  * Author:            Matthew D. Brown.
  * Author URI:        https://lordmatt.co.uk/
  * License:           GPL v2 or later
@@ -33,3 +33,4 @@ function matts_bandcamp_shortcode($atts,$content=null,$name){
 	$html .= "/transparent=true/' seamless></iframe>";
 	return $html;
 }
+
